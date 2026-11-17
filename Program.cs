@@ -197,6 +197,17 @@ namespace Assignment01
 
             #endregion
 
+            #region Questions 13
+            //Q13. Declare a Book? book = null;. Use ?. to safely read book.Title without crashing the program, and
+            //print the result.
+
+
+            //Book? book = null;
+
+            //Console.WriteLine(book?.Title);
+
+            #endregion
+
 
         }
     }
