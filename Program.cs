@@ -56,7 +56,7 @@ namespace Assignment01
 
             #region Questions 3
             //-Q03. Look at the line below. Is it a compile-time error, a runtime error, or a logical error? Fix it.
-           // int pages = "464";
+            // int pages = "464";
 
             // Compile-time error
             // int pages = "464";
@@ -65,6 +65,28 @@ namespace Assignment01
             //  int pages = 464;
 
             // Console.WriteLine(pages);
+
+            #endregion
+
+            #region Questions 4
+            //Q04. Write code that divides 10 by 0 inside a try block, catches the exception, prints "Cannot divide by
+            //zero", and then prints "Done" in a finally block.
+
+            //try
+            //{
+            //    int x = 10;
+            //    int y = 0;
+            //    int result = x / y;
+            //    Console.WriteLine(result);
+            //}
+            //catch (DivideByZeroException ex)
+            //{
+            //    Console.WriteLine("Cannot divide by zero");
+            //}
+            //finally
+            //{
+            //    Console.WriteLine("Done");
+            //}
 
             #endregion
 
