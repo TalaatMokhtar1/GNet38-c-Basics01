@@ -90,6 +90,13 @@ namespace Assignment01
 
             #endregion
 
+            #region Questions 5
+
+            //int pages = 300;
+            //double d = pages;
+            //Console.WriteLine(d);
+
+            #endregion
 
         }
     }
