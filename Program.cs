@@ -185,6 +185,18 @@ namespace Assignment01
 
             //year = 2023;
             //Console.WriteLine(year);
+            #endregion
+
+            #region Questions 12
+            //Q12. Declare a string? reviewer = null;. Print whether it is null.
+
+
+            //string? reviewer = null;
+
+            //Console.WriteLine(reviewer == null);
+
+            #endregion
+
 
         }
     }
