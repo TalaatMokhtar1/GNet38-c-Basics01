@@ -54,6 +54,19 @@ namespace Assignment01
 
             #endregion
 
+            #region Questions 3
+            //-Q03. Look at the line below. Is it a compile-time error, a runtime error, or a logical error? Fix it.
+           // int pages = "464";
+
+            // Compile-time error
+            // int pages = "464";
+
+            // Fix:
+            //  int pages = 464;
+
+            // Console.WriteLine(pages);
+
+            #endregion
 
 
         }
