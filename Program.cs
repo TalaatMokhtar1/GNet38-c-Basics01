@@ -145,7 +145,7 @@ namespace Assignment01
 
             #region Questions 9
             //Q09. Given int pages = 464;, convert it into a string using ToString() and print its type using GetType()
-           // to prove it's now a string.
+            // to prove it's now a string.
 
 
             //#region ToString()
@@ -161,6 +161,21 @@ namespace Assignment01
             //Console.WriteLine(s.GetType());
 
             #endregion
+
+            #region Questions 10
+
+
+            //int copies = 100;
+
+            //object obj = copies; 
+
+            //int newCopies = (int)obj;
+
+            //Console.WriteLine(copies);
+            //Console.WriteLine(newCopies);
+
+            #endregion
+
         }
     }
 }
