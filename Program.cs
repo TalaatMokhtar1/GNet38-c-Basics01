@@ -12,15 +12,48 @@ namespace Assignment01
 
 
 
-            object obj;
+            //object obj;
 
-            Book book = new Book() { Title = "Assignment", Pages = 100 };
+            //Book book = new Book() { Title = "Assignment", Pages = 100 };
 
-            obj = book;
+            //obj = book;
 
-            Console.WriteLine(obj);
+            //Console.WriteLine(obj);
 
             #endregion
+
+            #region Questions 2
+            //Q02. Using the Book class above, print the result of calling ToString(), Equals() (compare book with
+            //itself), GetHashCode(), and GetType() on book.
+
+            // Book book = new Book() { Title = "Assignment", Pages = 100 };
+
+            #endregion
+
+            #region ToString()
+
+            // Console.WriteLine(book.ToString());
+
+            #endregion
+
+            #region Equals()
+
+            // Console.WriteLine(book.Equals(book));
+
+            #endregion
+
+            #region GetHashCode()
+
+            //Console.WriteLine(book.GetHashCode());
+
+            #endregion
+
+            #region GetType()
+
+            //Console.WriteLine(book.GetType());
+
+            #endregion
+
 
 
         }
